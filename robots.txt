@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://utiqeaye.github.io/BlF/sitemap_index.txt
+Sitemap: https://utiqeaye.github.io/KHB/sitemap_index.txt
+Sitemap: https://utiqeaye.github.io/Qpq/sitemap_index.txt
+Sitemap: https://utiqeaye.github.io/jFD/sitemap_index.txt
